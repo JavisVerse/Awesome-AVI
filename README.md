@@ -828,7 +828,7 @@ Audio-visual generation studies how to synthesize temporally aligned sound and i
 
 ### Text-to-Audio-Video Generation
 
-+ [**Javisdit: Joint audio-video diffusion transformer with hierarchical spatio-temporal prior synchronization**](https://arxiv.org/abs/2503.23377) [![Paper](https://img.shields.io/badge/ICLR-32CD32)]()  <!-- 03-25 -->
++ [**Javisdit: Joint audio-video diffusion transformer with hierarchical spatio-temporal prior synchronization**](https://arxiv.org/abs/2503.23377) [![Paper](https://img.shields.io/badge/ICLR-32CD32)]() [![Star](https://img.shields.io/github/stars/JavisVerse/JavisDiT.svg?style=social&label=Star)](https://github.com/JavisVerse/JavisDiT)  <!-- 03-25 -->
 + [**Mm-diffusion: Learning multi-modal diffusion models for joint audio and video generation**](https://arxiv.org/abs/2302.06194) [![Paper](https://img.shields.io/badge/arxiv-b22222)]()  <!-- 02-23 -->
 + [**Sound-guided semantic video generation**](https://arxiv.org/abs/2203.15389) [![Paper](https://img.shields.io/badge/arxiv-b22222)]()  <!-- 03-22 -->
 + [**AI Choreographer: Music Conditioned 3D Dance Generation with AIST++**](https://arxiv.org/abs/2106.09149) [![Paper](https://img.shields.io/badge/arxiv-b22222)]()  <!-- 06-21 -->
@@ -836,7 +836,7 @@ Audio-visual generation studies how to synthesize temporally aligned sound and i
 + [**Taming Text-to-Sounding Video Generation via Advanced Modality Condition and Interaction**](https://arxiv.org/abs/2510.03117) [![Paper](https://img.shields.io/badge/arxiv-b22222)]()  <!-- 10-25 -->
 + [**Ovi: Twin backbone cross-modal fusion for audio-video generation**](https://arxiv.org/abs/2510.01284) [![Paper](https://img.shields.io/badge/ICLR-32CD32)]() [![Star](https://img.shields.io/github/stars/character-ai/Ovi.svg?style=social&label=Star)](https://github.com/character-ai/Ovi)  <!-- 10-25 -->
 + [**JoVA: Unified Multimodal Learning for Joint Video-Audio Generation**](https://arxiv.org/abs/2512.13677) [![Paper](https://img.shields.io/badge/arxiv-b22222)]()  <!-- 12-25 -->
-+ [**JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation**](https://arxiv.org/abs/2602.19163) [![Paper](https://img.shields.io/badge/ICLR-32CD32)]()  <!-- 02-26 -->
++ [**JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation**](https://arxiv.org/abs/2602.19163) [![Paper](https://img.shields.io/badge/ICLR-32CD32)]()  [![Star](https://img.shields.io/github/stars/JavisVerse/JavisDiT.svg?style=social&label=Star)](https://github.com/JavisVerse/JavisDiT)  <!-- 02-26 -->
 + [**UniForm: A Unified Multi-Task Diffusion Transformer for Audio-Video Generation**](https://arxiv.org/abs/2502.03897) [![Paper](https://img.shields.io/badge/arxiv-b22222)]()  <!-- 02-25 -->
 + [**Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy**](https://arxiv.org/abs/2511.21579) [![Paper](https://img.shields.io/badge/arxiv-b22222)]()  <!-- 11-25 -->
 + [**MOVA: Towards Scalable and Synchronized Video-Audio Generation**](https://arxiv.org/abs/2602.08794) [![Paper](https://img.shields.io/badge/arxiv-b22222)]() [![Star](https://img.shields.io/github/stars/OpenMOSS/MOVA.svg?style=social&label=Star)](https://github.com/OpenMOSS/MOVA)  <!-- 02-26 -->
