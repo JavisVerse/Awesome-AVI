@@ -1,9 +1,11 @@
 <h2 align="center">Audio-Visual Intelligence in Large Foundation Models: A Comprehensive Survey</h2>
 <div align="center">
 
-<!-- [![arXiv](https://img.shields.io/badge/arXiv-2503.12605-b31b1b?style=plastic&logo=arxiv)](https://arxiv.org/abs/2503.12605)
-[![Maintenance](https://img.shields.io/badge/Maintenance-FF9800?style=plastic&logo=maintenance&logoColor=white)](https://github.com/yaotingwangofficial/Awesome-AVI/issues)
-[![Discussion](https://img.shields.io/badge/Discussion-Open-brightgreen?style=plastic&logo=discussion&logoColor=white)](https://github.com/yaotingwangofficial/Awesome-AVI/discussions) -->
+[![arXiv](https://img.shields.io/badge/arXiv-2605.04045-b31b1b?style=plastic&logo=arxiv)](https://arxiv.org/abs/2605.04045)
+[![Maintenance](https://img.shields.io/badge/Maintenance-FF9800?style=plastic&logo=maintenance&logoColor=white)](https://github.com/JavisVerse/Awesome-AVI/issues/3)
+[![Discussion](https://img.shields.io/badge/Discussion-Open-brightgreen?style=plastic&logo=discussion&logoColor=white)](https://github.com/JavisVerse/Awesome-AVI/discussions)
+[![WeChat](https://img.shields.io/badge/WeChat-007ACC?style=plastic&logo=wechat&logoColor=white)](https://github.com/JavisVerse/Awesome-AVI/issues/4)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Us-brightgreen?style=plastic)](https://discord.gg/qdqRs5xhU)
 
 </div>
 
@@ -1084,4 +1086,4 @@ Audio-visual interaction concerns systems that do not merely perceive multimodal
 
 # ⭐️ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yaotingwangofficial/Awesome-AVI&type=Date)](https://star-history.com/#yaotingwangofficial/Awesome-AVI&Date) -->
+[![Star History Chart](https://api.star-history.com/svg?repos=JavisVerse/Awesome-AVI&type=Date)](https://star-history.com/#JavisVerse/Awesome-AVI&Date) -->
