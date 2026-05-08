@@ -1070,15 +1070,15 @@ Audio-visual interaction concerns systems that do not merely perceive multimodal
 
 ---
 
-<!-- # ❤️ Citation
+# ❤️ Citation
 
-> We would be honored if this work could assist you, and greatly appreciate it if you could consider starring and citing it:
+We would be honored if this work could assist you, and greatly appreciate it if you could consider starring and citing it:
 ```
 @article{wang2025audiovisual,
-  title={Audio-Visual Intelligence: A Comprehensive Survey},
-  author={Wang, Yaoting and others},
-  journal={arXiv preprint arXiv:2503.12605},
-  year={2025}
+  title={Audio-Visual Intelligence in Large Foundation Models: A Comprehensive Survey},
+  author={Qin, You and Liu, Kai and Wu, Shengqiong and Wang, Kai and Deng, Shijian and Tian, Yapeng and Xiao, Junbin and Xing, Yazhou and Ma, Yinghao and Li, Bobo and Zimmermann, Roger and Cui, Lei and Wei, Furu and Luo, Jiebo and Fei, Hao},
+  journal={arXiv preprint arXiv:2605.04045},
+  year={2026}
 }
 ```
 
