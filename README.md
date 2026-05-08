@@ -12,7 +12,7 @@
 
 </div>
 
-> 💡 *This repository contains a curated list of papers and resources for Audio-Visual Intelligence (AVI), organized following our comprehensive survey.*
+> 💡 *This repo contains a curated list of papers and resources for Audio-Visual Intelligence (AVI), organized following our [survey](https://arxiv.org/abs/2605.04045).*  
 > 📌 *Please feel free to open an issue or PR for any possibly missed related work.*
 
 <p align="center">
