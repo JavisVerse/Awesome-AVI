@@ -1086,4 +1086,4 @@ We would be honored if this work could assist you, and greatly appreciate it if 
 
 # ⭐️ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=JavisVerse/Awesome-AVI&type=Date)](https://star-history.com/#JavisVerse/Awesome-AVI&Date) -->
+[![Star History Chart](https://api.star-history.com/svg?repos=JavisVerse/Awesome-AVI&type=Date)](https://star-history.com/#JavisVerse/Awesome-AVI&Date) 
