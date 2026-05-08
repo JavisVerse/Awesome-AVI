@@ -2,10 +2,12 @@
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-2605.04045-b31b1b?style=plastic&logo=arxiv)](https://arxiv.org/abs/2605.04045)
+[![HuggingFace Papers](https://img.shields.io/badge/HuggingFace-Papers-yellow?style=plastic&logo=huggingface&logoColor=white)](https://huggingface.co/papers/2605.04045)
 [![Maintenance](https://img.shields.io/badge/Maintenance-FF9800?style=plastic&logo=maintenance&logoColor=white)](https://github.com/JavisVerse/Awesome-AVI/issues/3)
 [![Discussion](https://img.shields.io/badge/Discussion-Open-brightgreen?style=plastic&logo=discussion&logoColor=white)](https://github.com/JavisVerse/Awesome-AVI/discussions)
 [![WeChat](https://img.shields.io/badge/WeChat-007ACC?style=plastic&logo=wechat&logoColor=white)](https://github.com/JavisVerse/Awesome-AVI/issues/4)
 [![Discord](https://img.shields.io/badge/Discord-Join%20Us-brightgreen?style=plastic)](https://discord.gg/qdqRs5xhU)
+[![JavisVerse](https://img.shields.io/badge/JavisVerse-Homepage-blueviolet?style=plastic&logo=googlechrome&logoColor=white)](https://javisverse.github.io/)
 
 </div>
 
