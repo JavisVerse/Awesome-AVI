@@ -1,4 +1,5 @@
-<h2 align="center">Audio-Visual Intelligence in Large Foundation Models: A Comprehensive Survey</h2>
+<h1 align="center">Audio-Visual Intelligence in Large Foundation Models</h1>
+<h1 align="center">A Comprehensive Survey</h1>
 <div align="center">
 
 [![arXiv](https://img.shields.io/badge/arXiv-2605.04045-b31b1b?style=plastic&logo=arxiv)](https://arxiv.org/abs/2605.04045)
