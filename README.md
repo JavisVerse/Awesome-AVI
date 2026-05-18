@@ -1014,6 +1014,7 @@ Audio-visual interaction concerns systems that do not merely perceive multimodal
 + [**Video-chatgpt: Towards detailed video understanding via large vision and language models**](https://arxiv.org/abs/2310.02913) [![Paper](https://img.shields.io/badge/MLST-FFA07A)]() [![Star](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/Video-ChatGPT)  <!-- 10-23 -->
 + [**Video-mme: The first-ever comprehensive evaluation benchmark of multi-modal llms in video analysis**](https://arxiv.org/abs/2405.21075) [![Paper](https://img.shields.io/badge/CVPR-8A2BE2)]()  <!-- 05-24 -->
 + [**OmniVideoBench: Towards Audio-Visual Understanding Evaluation for Omni MLLMs**](https://arxiv.org/abs/2510.10689) [![Paper](https://img.shields.io/badge/arxiv-b22222)]()  <!-- 10-25 -->
++ [**OmniMMI: A Comprehensive Multi-modal Interaction Benchmark in Streaming Video Contexts**](https://arxiv.org/abs/2503.22952) [![Paper](https://img.shields.io/badge/CVPR-8A2BE2)]() [![Star](https://img.shields.io/github/stars/OmniMMI/OmniMMI.svg?style=social&label=Star)](https://github.com/OmniMMI/OmniMMI) <!-- 03-29 -->
 
 ## Interactive Audio-Visual Embodiment
 
