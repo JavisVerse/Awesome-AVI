@@ -356,6 +356,7 @@ Perception in audio-visual systems begins with *what* can be read off raw signal
 + [**Towards open-vocabulary audio-visual event localization**](https://arxiv.org/abs/2411.11278) [![Paper](https://img.shields.io/badge/CVPR-8A2BE2)]()  <!-- 03-24 -->
 + [**Dense-localizing audio-visual events in untrimmed videos: A large-scale benchmark and baseline**](https://arxiv.org/abs/2303.12930) [![Paper](https://img.shields.io/badge/CVPR-8A2BE2)]()  <!-- 03-23 -->
 + [**Dense audio-visual event localization under cross-modal consistency and multi-temporal granularity collaboration**](https://arxiv.org/abs/2307.06451) [![Paper](https://img.shields.io/badge/AAAI-FFD700)]() [![Star](https://img.shields.io/github/stars/zzhhfut/CCNet-AAAI2025.svg?style=social&label=Star)](https://github.com/zzhhfut/CCNet-AAAI2025)  <!-- 07-23 -->
++ [**Parallelized Autoregressive Decoding for Omni-Modal Dense Video Captioning**](https://arxiv.org/abs/2607.02963v1) [![Paper](https://img.shields.io/badge/ECCV-FF7F50)]() [![Star](https://img.shields.io/github/stars/showlab/PadCaptioner.svg?style=social&label=Star)](https://github.com/showlab/PadCaptioner)  <!-- 07-26 -->
 
 ### Audio-Visual Segmentation
 
