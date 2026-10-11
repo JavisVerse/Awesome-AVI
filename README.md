@@ -412,6 +412,7 @@ Perception in audio-visual systems begins with *what* can be read off raw signal
 + [**Audio-visual event localization in unconstrained videos**](https://arxiv.org/abs/1804.03947) [![Paper](https://img.shields.io/badge/ECCV-FF7F50)]() <!-- 04-18 --> [![Star](https://img.shields.io/github/stars/YapengTian/AVE-ECCV18.svg?style=social&label=Star)](https://github.com/YapengTian/AVE-ECCV18)
 + [**Vggsound: A large-scale audio-visual dataset**](https://arxiv.org/abs/2004.14368) [![Paper](https://img.shields.io/badge/ICASSP-FFC0CB)]() [![Star](https://img.shields.io/github/stars/hche11/VGGSound.svg?style=social&label=Star)](https://github.com/hche11/VGGSound)  <!-- 04-20 -->
 + [**LRS3-TED: a large-scale dataset for visual speech recognition**](https://arxiv.org/abs/1809.00496) [![Paper](https://img.shields.io/badge/arxiv-b22222)]() <!-- 09-18 -->
++ [**PVSync: A Unified Lip-Sync Expert for Timing and Articulation**](https://arxiv.org/abs/2610.09223) [![Paper](https://img.shields.io/badge/arxiv-b22222)]() <!-- 10-26 -->
 
 ## Audio-Visual Content Understanding
 
